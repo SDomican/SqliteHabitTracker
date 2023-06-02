@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HabitTracker": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Stephen Domican\\Desktop\\Misc\\CSharp\\HabitTracker\\HabitTracker\\"
+    }
+  }
+}
